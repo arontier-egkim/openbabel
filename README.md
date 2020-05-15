@@ -10,8 +10,11 @@ This is a repository for Docker images of Open Babel library.
 Available versions are:
 
 * [3.1.1](https://gitlab.com/daverona/docker/openbabel/-/blob/3.1.1/Dockerfile), [latest](https://gitlab.com/daverona/docker/openbabel/-/blob/latest/Dockerfile)
+* [3.1.1-alpine3.10](https://gitlab.com/daverona/docker/openbabel/-/blob/3.1.1-alpine3.10/Dockerfile)
 * [3.1.0](https://gitlab.com/daverona/docker/openbabel/-/blob/3.1.0/Dockerfile)
+* [3.1.0-alpine3.10](https://gitlab.com/daverona/docker/openbabel/-/blob/3.1.0-alpine3.10/Dockerfile)
 * [3.0.0](https://gitlab.com/daverona/docker/openbabel/-/blob/3.0.0/Dockerfile)
+* [3.0.0-alpine3.10](https://gitlab.com/daverona/docker/openbabel/-/blob/3.0.0-alpine3.10/Dockerfile)
 
 ## Installation
 
